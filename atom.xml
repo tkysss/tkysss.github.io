@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-06-14T12:20:56.499Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my_second_blog</title>
+    <link href="http://example.com/2021/06/14/my-second-blog/"/>
+    <id>http://example.com/2021/06/14/my-second-blog/</id>
+    <published>2021-06-14T11:36:09.000Z</published>
+    <updated>2021-06-14T12:20:56.499Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Welcome-to-my-blog"><a href="#Welcome-to-my-blog" class="headerlink" title="Welcome to my blog"></a>Welcome to my blog</h2><pre class=" language-c++"><code class="language-c++">#include "stdio.h"#include "math.h"#include "stdlib.h"void opt(double x,double y,char c){    switch(c){        case '+':            printf("%.2lf + %.2lf = %.2lf\n",x,y,x+y);            break;        case '-':            printf("%.2lf - %.2lf = %.2lf\n",x,y,x-y);            break;        case '/':            if(fabs(y)<1e-9)puts("error");            else  printf("%.2lf / %.2lf = %.2lf\n",x,y,x/y);            break;        case '*':            printf("%.2lf * %.2lf = %.2lf\n",x,y,x*y);            break;        default:puts("error");break;    }}int main(){    double x,y;    char s[5];    while(1){        scanf("%lf%s%lf",&x,&s,&y);        opt(x,y,s[0]);        scanf("%s",s);        if(s[0]=='n')break;    }    system("pause");    return 0;}</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Welcome-to-my-blog&quot;&gt;&lt;a href=&quot;#Welcome-to-my-blog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to my blog&quot;&gt;&lt;/a&gt;Welcome to my blog&lt;/h2&gt;&lt;pre clas</summary>
+      
+    
+    
+    
+    <category term="1" scheme="http://example.com/categories/1/"/>
+    
+    
+    <category term="life" scheme="http://example.com/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my first_blog</title>
+    <link href="http://example.com/2021/06/14/my-first-blog/"/>
+    <id>http://example.com/2021/06/14/my-first-blog/</id>
+    <published>2021-06-14T08:27:17.000Z</published>
+    <updated>2021-06-14T13:11:12.460Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h2><h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> <span class="github-emoji"><span>😢</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> :happy:  <span class="github-emoji"><span>🐱</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> </p><p>中文输入会怎么样呢？ ​</p><p>durydcityu</p><h2 id="2-1"><a href="#2-1" class="headerlink" title="2.1"></a>2.1</h2><h2 id="2-2"><a href="#2-2" class="headerlink" title="2.2"></a>2.2</h2><h3 id="2-2-1"><a href="#2-2-1" class="headerlink" title="2.2.1"></a>2.2.1</h3><h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;&lt;h2 id=&quot;1-1&quot;&gt;&lt;a href=&quot;#1-1&quot; class=&quot;headerlink&quot; title=&quot;1.1&quot;&gt;&lt;/a&gt;1.1&lt;/h2&gt;&lt;h1 id</summary>
+      
+    
+    
+    
+    <category term="2" scheme="http://example.com/categories/2/"/>
+    
+    
+    <category term="computer science" scheme="http://example.com/tags/computer-science/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/06/14/hello-world/"/>
+    <id>http://example.com/2021/06/14/hello-world/</id>
+    <published>2021-06-14T07:42:37.453Z</published>
+    <updated>2021-06-14T07:42:37.453Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
