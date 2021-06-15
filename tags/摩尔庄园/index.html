@@ -10,7 +10,7 @@
     
     
     
-    <title>my_second_blog | 一个博客</title>
+    <title>Tags: 摩尔庄园 | 一个博客</title>
     <!-- inject:style -->
     <link href="/css/style.css" rel="stylesheet" type="text/css">
     <!-- endinject -->
@@ -163,91 +163,29 @@
     
     <div class="cube-content">
         <div class="cube-left">
-            <div class="cube-article">
-    <h1 class="title">my_second_blog</h1>
+            <style>
+    @media(max-width: 768px) {
+        body {
+            background-color: #fff!important;
+        }
+    }
+</style>
+<div class="cube-archives">
     
-    <div class="cube-article-header">
-        <div class="cube-article-date">
-            <i class="cube-icon cube-icon-date" aria-hidden="true"></i>
-            <!-- moment.js对象 -->
-            2021-06-14
-        </div>
-        <div class="cube-article-tags">
-    <i class="cube-icon cube-icon-tag" aria-hidden="true"></i>
-    
-    <a href="/tags/life/">#life</a>
-    
-</div>
+    <div class="cube-archive" style="margin-top: 0;">
+        <h1 class="title">摩尔庄园</h1>
+        
+        <ul class="posts">
+            
+            <li class="post">
+                <a href="/2021/06/15/zouhuorumo/">走火入摩</a>
+            </li>
+            
+        </ul>
+        
     </div>
     
-    <div class="cube-article-content cube-markdown">
-        
-        <h2 id="Welcome-to-my-blog"><a href="#Welcome-to-my-blog" class="headerlink" title="Welcome to my blog"></a>Welcome to my blog</h2><pre class=" language-c++"><code class="language-c++">#include "stdio.h"
-#include "math.h"
-#include "stdlib.h"
-void opt(double x,double y,char c){
-    switch(c){
-        case '+':
-            printf("%.2lf + %.2lf = %.2lf\n",x,y,x+y);
-            break;
-        case '-':
-            printf("%.2lf - %.2lf = %.2lf\n",x,y,x-y);
-            break;
-        case '/':
-            if(fabs(y)<1e-9)puts("error");
-            else  printf("%.2lf / %.2lf = %.2lf\n",x,y,x/y);
-            break;
-        case '*':
-            printf("%.2lf * %.2lf = %.2lf\n",x,y,x*y);
-            break;
-        default:puts("error");break;
-    }
-}
-
-int main()
-{
-    double x,y;
-    char s[5];
-    while(1){
-        scanf("%lf%s%lf",&x,&s,&y);
-        opt(x,y,s[0]);
-        scanf("%s",s);
-        if(s[0]=='n')break;
-    }
-    system("pause");
-    return 0;
-}
-</code></pre>
-
-    </div>
 </div>
-
-<div class="cube-article-nav">
-    <ul>
-        
-        <li class="prev">
-            <a href="/2021/06/15/hello-world/">
-                <i class="cube-icon cube-prev" aria-hidden="true"></i>
-                Hello World
-            </a>
-        </li>
-        
-        
-        <li class="next">
-            <a href="/2021/06/14/my-first-blog/">
-                my first_blog
-                <i class="cube-icon cube-next" aria-hidden="true"></i>
-            </a>
-        </li>
-        
-    </ul>
-</div>
-
-
-<!-- TODO 根据theme.comment的内容进行入口选择 -->
-
-
-
         </div>
         <div class="cube-right">
             
@@ -426,7 +364,7 @@ int main()
         </div>
         
         
-        <div class="cube-box ">
+        <div class="cube-box-bg ">
             <a href="/tags/%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD/">#摩尔庄园</a>
         </div>
         
