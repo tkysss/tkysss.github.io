@@ -4,81 +4,11 @@
   
     
     <entry>
-      <title>走火入摩</title>
-      <link href="/2021/06/15/zouhuorumo/"/>
-      <url>/2021/06/15/zouhuorumo/</url>
+      <title>高等元素论</title>
+      <link href="/2021/06/18/gao-deng-yuan-su-lun/"/>
+      <url>/2021/06/18/gao-deng-yuan-su-lun/</url>
       
-        <content type="html"><![CDATA[<h1 id="2021-6-14钓鱼日记"><a href="#2021-6-14钓鱼日记" class="headerlink" title="2021.6.14钓鱼日记"></a>2021.6.14钓鱼日记</h1><p>雨天，浆果丛林，十个网，钓不到一个河童<span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 摩尔庄园 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>abaaba</title>
-      <link href="/2021/06/15/abaaba/"/>
-      <url>/2021/06/15/abaaba/</url>
-      
-        <content type="html"><![CDATA[<h2 id="aa-lksjjojojdjok"><a href="#aa-lksjjojojdjok" class="headerlink" title="aa;lksjjojojdjok"></a>aa;lksjjojojdjok</h2>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/06/15/hello-world/"/>
-      <url>/2021/06/15/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>my_second_blog</title>
-      <link href="/2021/06/14/my-second-blog/"/>
-      <url>/2021/06/14/my-second-blog/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Welcome-to-my-blog"><a href="#Welcome-to-my-blog" class="headerlink" title="Welcome to my blog"></a>Welcome to my blog</h2><pre class=" language-c++"><code class="language-c++">#include "stdio.h"#include "math.h"#include "stdlib.h"void opt(double x,double y,char c){    switch(c){        case '+':            printf("%.2lf + %.2lf = %.2lf\n",x,y,x+y);            break;        case '-':            printf("%.2lf - %.2lf = %.2lf\n",x,y,x-y);            break;        case '/':            if(fabs(y)<1e-9)puts("error");            else  printf("%.2lf / %.2lf = %.2lf\n",x,y,x/y);            break;        case '*':            printf("%.2lf * %.2lf = %.2lf\n",x,y,x*y);            break;        default:puts("error");break;    }}int main(){    double x,y;    char s[5];    while(1){        scanf("%lf%s%lf",&x,&s,&y);        opt(x,y,s[0]);        scanf("%s",s);        if(s[0]=='n')break;    }    system("pause");    return 0;}</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> 1 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> life </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>my first_blog</title>
-      <link href="/2021/06/14/my-first-blog/"/>
-      <url>/2021/06/14/my-first-blog/</url>
-      
-        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h2><h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> <span class="github-emoji"><span>😢</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> :happy:  <span class="github-emoji"><span>🐱</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> </p><p>中文输入会怎么样呢？ ​</p><p>durydcityu</p><h2 id="2-1"><a href="#2-1" class="headerlink" title="2.1"></a>2.1</h2><h2 id="2-2"><a href="#2-2" class="headerlink" title="2.2"></a>2.2</h2><h3 id="2-2-1"><a href="#2-2-1" class="headerlink" title="2.2.1"></a>2.2.1</h3><h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="高等元素论"><a href="#高等元素论" class="headerlink" title="高等元素论"></a>高等元素论</h1><p><img src="    https://wx3.sinaimg.cn/mw690/007Rux8egy1grm9tbi7etj30hs16hjt7.jpg" height="62%"><img src="https://i.loli.net/2021/06/18/MmfKa4UABsiXxoW.jpg" height="62%"><img src="    https://wx3.sinaimg.cn/mw690/007Rux8egy1grm9tbi7etj30hs16hjt7.jpg" height="62%"></p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h2 id="本文转载于NGA社区用户-6688-原帖信息请点击这里"><a href="#本文转载于NGA社区用户-6688-原帖信息请点击这里" class="headerlink" title="本文转载于NGA社区用户 6688 原帖信息请点击这里"></a>本文转载于NGA社区用户 6688 原帖信息请点击<a href="https://bbs.nga.cn/read.php?tid=24400590">这里</a></h2><p>本帖内容建立于对大量测试数据分类归纳的基础上，是为了让大家对原神元素相关内容有更进一步的了解，进而为以后某些可能的套路玩法提供数据支撑。内容不涉及相关伤害数据，只是对元素机制本身的分析，且不包含附着cd内容，本帖内容建立在“元素既定附着”的基础上。</p><p><img src="https://i.loli.net/2021/06/18/WEKnXBRsjSc2uYz.jpg" alt="元素反应图像"></p><h2 id="一、元素量和附着时间"><a href="#一、元素量和附着时间" class="headerlink" title="一、元素量和附着时间"></a>一、元素量和附着时间</h2><h3 id="1-1-附着元素和触发元素"><a href="#1-1-附着元素和触发元素" class="headerlink" title="1.1 附着元素和触发元素"></a>1.1 附着元素和触发元素</h3><p>游戏中的元素可以大体分为两种情况：<br>1.只存在一瞬的触发元素，即触发反应的元素(包括反应破盾)。例如对一个附着水的目标上火会触发蒸发反应，此时火元素便为触发元素<br>2.会持续存在的附着元素，附着到目标身上可持续存在的元素即为附着元素<br>文字理解：对于角色对敌对单位施加的元素，其只有作为触发元素时才可能且一定拥有100%的最大元素量，附着元素最多只拥有约80%的最大元素量<br>图像理解请参考1.4中的内容，可理解为一分段函数。<br>(ps.游戏中带有伤害的元素大多具有与角色对敌对单位施加元素相同的规律(称为伤害元素)，即附着元素最多只具有约80%的最大元素量，伤害元素的最大元素量与最长附着时间符合公式关系。但对于角色自身附着(例如芭芭拉的水环给角色上水)和一些不带伤害的元素(例如海水)，这些元素无论作为触发元素还是附着元素所可以拥有的最大元素量都为100%的最大元素量，且他们的最大元素量与最长附着时间之间无明显公式关系。这里暂不展开叙述其他情况，本帖以角色对敌对单位施加元素与触发反应为主。)</p><h3 id="1-2-元素量与消耗量"><a href="#1-2-元素量与消耗量" class="headerlink" title="1.2 元素量与消耗量"></a>1.2 元素量与消耗量</h3><p>元素量为元素本身所具有的且确切存在于游戏中的一种数值，是量化元素的必要工具。同种元素的反复叠加附着不存在反应，为附着元素间的元素量叠加覆盖。元素反应中，触发元素会消耗附着元素的元素量，我们称附着元素被消耗的元素量数值为反应消耗量，这一点对反应破盾的情况同样适用。“强度”不同的元素所对应的最长持续时间与最大元素量不同，最大元素量为元素作为触发元素时所具有的元素量，最长附着时间为元素作为附着元素所能单独存在的最长时间，具体数据详见元素附着时间。</p><p>数据采用“最长附着时间-最大元素量”的格式表示，假设除草元素外最弱的原生伤害元素具有的最大元素量为1(下同)，那么有如下的对应关系：</p><h3 id="弱元素：9-5s-1-中元素：12s-2-强元素：17s-4"><a href="#弱元素：9-5s-1-中元素：12s-2-强元素：17s-4" class="headerlink" title="弱元素：9.5s-1 中元素：12s-2 强元素：17s-4"></a>弱元素：9.5s-1 中元素：12s-2 强元素：17s-4</h3><h3 id="1-3-风和岩"><a href="#1-3-风和岩" class="headerlink" title="1.3 风和岩"></a>1.3 风和岩</h3><p>实际上游戏中的风和岩元素是被火/雷/冰/水四元素克制的，而风和岩暂不会发生反应。风/岩较为特殊，角色施加的风/岩元素无法附着，仅能作为触发元素，又因为被克制，通常只能发挥50%的元素量效果。<br>所以角色施加的风/岩也符合上述元素强弱分类。<br><img src="https://i.loli.net/2021/06/18/HnRyA6oEdqx9wXa.jpg" height="46%"></p><h3 id="1-4-元素衰减"><a href="#1-4-元素衰减" class="headerlink" title="1.4 元素衰减"></a>1.4 元素衰减</h3><p>元素量会随附着时间的增加而衰减，附着衰减的情况仅会出现在附着元素上</p><p>图像理解附着元素和触发元素：1.x=0时，y=b 2.x&gt;0时，y=kx+0.8b(k&lt;0,b&gt;0)</p><p><img src="https://i.loli.net/2021/06/18/bDMeghRPmY5UB6p.png" alt="元素衰减函数图像"><br><img src="https://i.loli.net/2021/06/18/rhxcbX3AYCik5RS.png" alt="元素衰减函数图像"><br><img src="https://i.loli.net/2021/06/18/T5IhlLnCVvo6BUx.png" alt="元素衰减函数图像"></p><h3 id="1-5-元素的主次"><a href="#1-5-元素的主次" class="headerlink" title="1.5 元素的主次"></a>1.5 元素的主次</h3><p>元素反应与叠加中的元素有主次之分，第一个附着的元素即为主元素，后续元素均为次元素。<br>在同元素叠加中，主次元素均为附着元素。衰减速度会以主元素的衰减速度衰减，次元素均仅负责补充元素量而不会改变衰减速度。<br>在元素反应中，主元素即为附着元素，次元素即为触发元素。只有主元素会残留，后续的次元素只消耗主元素元素量而不会残留。即便次元素的元素量多于主元素的剩余元素量，次元素也不会残留。(感电反应除外，会在元素反应中提到)</p><h2 id="二、同元素叠加"><a href="#二、同元素叠加" class="headerlink" title="二、同元素叠加"></a>二、同元素叠加</h2><p>叠加机制理论<br>当补充元素的元素量大于剩余元素的元素量时，该元素的元素量会更新为补充元素的元素量(小于则不更新，即二者选其多)，但是更新元素量不会改变主元素的衰减速度。<br>衰减速度：元素原始状态衰减的速度。例如，9.5s弱元素附着时最多具有约0.8的元素量，那么其衰减速度为每秒衰减0.8/9.5=8/95的元素量。如果被一12s元素补充，12s元素叠加补充的元素量为1.6，那么叠加后的元素衰减完所需时间为1.6/(8/95)=19s。</p><p>本条不再举例，可参考[元素附着时间叠加机制]中的数据。</p><h2 id="三、元素反应"><a href="#三、元素反应" class="headerlink" title="三、元素反应"></a>三、元素反应</h2><img src="https://images2.alphacoders.com/110/1107816.jpg" height="45%"><h3 id="3-1-元素反应机制理论"><a href="#3-1-元素反应机制理论" class="headerlink" title="3.1 元素反应机制理论"></a>3.1 元素反应机制理论</h3><p>元素反应中次元素会消耗主元素的元素量，如果反应后主元素的剩余元素量不为0则会继续残留至消耗完毕。主元素与次元素的元素量消耗之比，在两元素无克制关系时为1:1。但当两元素间存在克制关系时，元素消耗关系为，克制元素:被克制元素=1:2。例如雷冰间无克制关系，1点雷会消耗1点冰(冰足量)；水克制火，那么1点水可以消耗2点火(火足量)。(感电反应较为特殊)</p><p>还有一点需要注意，两元素反应消耗的比例关系在某些情况中存在特殊的机制性设定，例如某些怪物的护盾的反应消耗并不满足无克制1:1和克制1:2的关系，也就是不存在一般意义上的克制关系而是单独设定，故我们不将其归为一般意义上的元素克制。比如经常有玩家提到的“冰克雷”来源于冰元素反应破愚人众雷锤前锋军的雷护甲，而雷锤前锋军是上述提到的特殊设定之一，也就是说“冰克雷”只存在于雷锤前锋军这一个单位而并不存在于其他的大多数情况中，所以一般来说我们不认为雷被冰克制。</p><p>元素克制：目前游戏中一般意义上的元素克制关系有：1.水克制火 2.火克制冰 3.水/雷/冰/火克制风/岩</p><h3 id="3-2-增幅反应、剧变反应与结晶反应-不含感电反应"><a href="#3-2-增幅反应、剧变反应与结晶反应-不含感电反应" class="headerlink" title="3.2 增幅反应、剧变反应与结晶反应(不含感电反应)"></a>3.2 增幅反应、剧变反应与结晶反应(不含感电反应)</h3><p>结合上述理论与[元素反应中的元素残留机制]中的数据简单举几个例子便于大家理解。冻结与扩散反应在下面单独提到，并不是因为其不符合一般的反应规律，是因为他们还有其他的额外效果需要展开叙述。而感电是与常规反应不同才展开叙述。</p><h3 id="3-3-感电反应"><a href="#3-3-感电反应" class="headerlink" title="3.3 感电反应"></a>3.3 感电反应</h3><p>感电反应结算机制：两元素地位平等，在反应期间共存，均为附着元素，每次结算同时减掉两元素各0.4的元素量，每进行一次结算造成一次感电伤害，直到有一元素被消耗完。<br>需要注意，两次结算之间有约1s的间隔，间隔期间依然会正常计算元素衰减。例如A水触发B雷感电，触发时B雷元素量还支持2次反应(即元素量大于0.4)，但1s后的元素量小于0.4，这种情况也只会触发一次感电，因为B雷会在第一次结算和第二次结算间的1s衰减完而无法继续反应。<br>(似乎存在如果两元素附着时间相隔过近，会导致前一元素会被少消耗一轮但伤害正常触发的问题。感电还存在有时消耗一轮元素量后不造成此轮感电伤害的问题，此问题通常发生在中间轮次。原因不明)</p><h3 id="3-4-冻结与碎冰反应"><a href="#3-4-冻结与碎冰反应" class="headerlink" title="3.4 冻结与碎冰反应"></a>3.4 冻结与碎冰反应</h3><p>详细的冻结相关内容请移步<a href="https://bbs.nga.cn/read.php?tid=25681266&amp;page=1">冻结相关的深入测试与一些猜测</a></p><h4 id="3-4-1-简单介绍"><a href="#3-4-1-简单介绍" class="headerlink" title="3.4.1 简单介绍"></a>3.4.1 简单介绍</h4><p>首先要明确一点，与冰有关的元素有两种。一种是常见的冰(自由冰)，是无法碎冰的；另一种是冻结状态的冰(冻结冰)，是可以碎冰的，这点对怪物的冰盾也是一样。这两种状态的冰图标不同，但两者的性质基本相同，例如冻元素也克制风/岩，也被火克制。<br>一般冻结时会优先显示冻结冰，但这不意味着如果之前附着且残留的冰或水就不存在了，因为水/冰不会与冻元素反应，所以只要它们的元素量未衰减至0就仍会存在于目标身上，只不过不显示。同样，在冻结时也可以正常为目标附着新的水/冰元素。<br>冻结反应消耗量指本次冻结中参与反应的元素量，即取决于水/冰二元素中量较少的那一方。</p><h4 id="3-4-2-冻结时间"><a href="#3-4-2-冻结时间" class="headerlink" title="3.4.2 冻结时间"></a>3.4.2 冻结时间</h4><p><img src="https://wx3.sinaimg.cn/mw690/007Rux8egy1grm9tbibvcj30m60ckmxe.jpg" alt="冻结时间函数图像"></p><h4 id="3-4-3-几个猜测的简单总结"><a href="#3-4-3-几个猜测的简单总结" class="headerlink" title="3.4.3 几个猜测的简单总结"></a>3.4.3 几个猜测的简单总结</h4><p>1.冻元素量≈2倍的冻结反应消耗量。</p><p>2.在前一次冻结尚未或刚结束时，紧接着施加的下一次冻结的冻结时间会减少约30%，此效果会在解冻后2s内逐渐减少直至消失。</p><p>3.冻元素的叠加应也符合上述叠加规律。</p><h4 id="3-4-4-碎冰阈值"><a href="#3-4-4-碎冰阈值" class="headerlink" title="3.4.4 碎冰阈值"></a>3.4.4 碎冰阈值</h4><p>当前版本内，碎冰反应存在最低碎冰阈值，当冻元素量小于约0.5-0.6时便无法触发碎冰反应，只会扣除冻元素量而无动画与伤害。</p><h3 id="3-5-扩散反应"><a href="#3-5-扩散反应" class="headerlink" title="3.5 扩散反应"></a>3.5 扩散反应</h3><h4 id="3-5-1-几个用词"><a href="#3-5-1-几个用词" class="headerlink" title="3.5.1 几个用词"></a>3.5.1 几个用词</h4><p>扩散元素：指扩散出去的元素<br>被扩散元素：指被风元素触发扩散反应的元素。<br>盈额：指发生扩散反应，附着元素剩余元素量大于等于风元素消耗量时，扩散元素具有的元素量<br>亏额：指发生扩散反应，附着元素剩余元素量小于风元素消耗量，扩散元素具有的元素量<br>(别问为什么用“盈亏”，问就中二)</p><h4 id="3-5-2-扩散机制"><a href="#3-5-2-扩散机制" class="headerlink" title="3.5.2 扩散机制"></a>3.5.2 扩散机制</h4><p>当附着元素剩余元素量大于等于风元素最大消耗量时，扩散元素具有盈额的元素量，弱风盈额约为2.2，中风盈额约为3.45；当附着元素剩余元素量小于风元素最大消耗量时，扩散元素具有亏额的元素量，亏额与反应时附着元素剩余的元素量呈线性相关，与风元素强弱无关，且亏额最小值为约1.0。</p><h4 id="3-5-3-盈亏图像"><a href="#3-5-3-盈亏图像" class="headerlink" title="3.5.3 盈亏图像"></a>3.5.3 盈亏图像</h4><p>图像中的扩散元素元素量为作为触发元素的元素量，即最大值。<br><img src="https://wx1.sinaimg.cn/mw690/007Rux8egy1grm9tbjar2j30n20ciwf0.jpg" alt="扩散量函数图像"></p><h4 id="3-5-4-盈亏的关系"><a href="#3-5-4-盈亏的关系" class="headerlink" title="3.5.4 盈亏的关系"></a>3.5.4 盈亏的关系</h4><p>假定上图亏额对应直线为f(x)，不难发现对于弱风来说(具有1元素量，扩散反应时最多消耗0.5)，盈额为f(1)，盈亏分界点为(0.5,f(0.5))，亏额为f(a) (其中a代表附着元素剩余的元素量)。对于中风来说(具有2元素量，扩散反应时最多消耗1)，盈额为f(2)，盈亏分界点为(1,f(1))，亏额为f(a)。</p><ol><li>盈额时，f(x)的x取风元素的元素量</li><li>亏额时，f(x)的x取被扩散元素的剩余元素量</li></ol><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>相关测试内容从最开始测试的附着时间到初版发布共耗时两个月，文件夹塞了25G的测试数据。再到现在又过了几个月，共计测试文件31.2G。不过现在的内容仍说不上特别完整，期待未来有进一步的完善，也希望这些东西能对大家有一定的帮助。</p><p>望大家理性讨论相关问题，共建良好游戏环境。如若发现文中有错误，还望各位能评论提出，让我们一同进步。</p><p>万分感谢！</p><img src="https://images5.alphacoders.com/110/1107810.jpg" height="46%">]]></content>
       
       
       <categories>
@@ -90,7 +20,57 @@
       
         <tags>
             
-            <tag> computer science </tag>
+            <tag> 高等元素论 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>80年代的中国动画有多了不起？</title>
+      <link href="/2021/06/18/zhong-guo-dong-hua-de-xing-shuai/"/>
+      <url>/2021/06/18/zhong-guo-dong-hua-de-xing-shuai/</url>
+      
+        <content type="html"><![CDATA[<h1 id="80年代的中国动画有多了不起？"><a href="#80年代的中国动画有多了不起？" class="headerlink" title="80年代的中国动画有多了不起？"></a>80年代的中国动画有多了不起？</h1><h2 id="本文摘自百度用户-黎明前最后的黑暗-查看原文请点击这里"><a href="#本文摘自百度用户-黎明前最后的黑暗-查看原文请点击这里" class="headerlink" title="本文摘自百度用户 黎明前最后的黑暗 查看原文请点击这里"></a>本文摘自百度用户 黎明前最后的黑暗 查看原文请点击<a href="https://baijiahao.baidu.com/s?id=1701733234553084097&amp;wfr=spider&amp;for=pc">这里</a></h2><h2 id="导语："><a href="#导语：" class="headerlink" title="导语："></a>导语：</h2><p>以前在科学技术还比较落后的时候，到了晚上大家基本上是没有什么事情可以干的，特别是对于小朋友来说只能早早的去睡觉。不过随着科技的进步电视机出现了，相信不少人在小的时候应该都看过动画片，今天小编就带大家一起来回顾一下80年以前的国产动漫。</p><p><img src="https://i.loli.net/2021/06/18/zrYGbXDeZfqpkMJ.jpg" width="100%"></p><h2 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h2><p><img src="https://i.loli.net/2021/06/18/sUjPNkAbHKf3QTG.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/fVkzThc8qWmKO57.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/Gj3rlP5og6QJhyu.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/GWNL6Z7qljgcvu8.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/ObldgzK7wX9PBNU.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/kcGxVdv3IhRsPbi.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/3tQXGaBudC45Pge.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/WAC65quRpDbdFOg.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/QlMeRTfsX3wEqud.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/HB7ga1myAdG95Zu.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/3ZkhCEfaXAO2HPF.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/XJLc9FOfWVhRqSP.jpg" width="100%"></p><p><img src="https://i.loli.net/2021/06/18/gtfAWKjI7su3yVx.jpg" width="100%"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 中国动画 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>菱形的奥秘:原神美术考究</title>
+      <link href="/2021/06/18/ling-xing-de-ao-mi-yuan-shen-mei-zhu-kao-jiu/"/>
+      <url>/2021/06/18/ling-xing-de-ao-mi-yuan-shen-mei-zhu-kao-jiu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="【原神世界观】菱形的奥秘：从旅行者双子到天理维系者与派蒙双子"><a href="#【原神世界观】菱形的奥秘：从旅行者双子到天理维系者与派蒙双子" class="headerlink" title="【原神世界观】菱形的奥秘：从旅行者双子到天理维系者与派蒙双子"></a>【原神世界观】菱形的奥秘：从旅行者双子到天理维系者与派蒙双子</h1><h2 id="前言：本文转载自知乎用户-银发三千雪满头-查看原文章请点击这里"><a href="#前言：本文转载自知乎用户-银发三千雪满头-查看原文章请点击这里" class="headerlink" title="前言：本文转载自知乎用户 银发三千雪满头 查看原文章请点击这里"></a>前言：本文转载自知乎用户 银发三千雪满头 查看原文章请点击<a href="https://zhuanlan.zhihu.com/p/343801619">这里</a></h2><h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><img src="https://pic1.zhimg.com/80/v2-f3a9f5ca502d389872c1e2a43f5fbacc_720w.jpg" width="60%"><p>菱形，或者说45°旋转后的正方形，是人类文明最古老的符号之一。四大文明古国之一的埃及，就曾用这个符号代表“P”，或象征“柜子”“盒子”等储物器皿。古埃及人认为世界是个方形的盒子，而中国同样有着天圆地方的说法。换言之，菱形从古代开始就被人们认为代表“大地”，或我们所处的“世界”。人类对菱形符号的迷恋自古以来便有，而在原神中我们同样也能发现不少散落的菱形符号——它们或者直接对某些道具、场景进行装点，或者经过艺术加工后出现在我们所喜爱的角色身上。下面，就由我来为大家盘点一下原神中，出现的那些神秘而奥妙无穷的菱形符号背后的含义吧。</p><p>##一、旅行者与派蒙——菱形、星形与世界</p><img src="https://pic1.zhimg.com/80/v2-63610c37cc8297ff0c7ee28ec2deeda8_720w.jpg" width="80%"><p>要说游戏中最醒目的菱形符号，或者经过艺术处理的类菱形符号，必定是主角旅行者身上的许多星形了。它们相较菱形，只是每条边都微微地向内凹陷了一定弧度。而这些象征着“星辰”含义的每一个星形，都代表着一个浩瀚完整的世界。World一词既可指代“世界”，也可解释为“星球”（星形），亦说明了星形的含义即为世界。</p><p><em><strong>「你的故国已经覆灭，宫城万顷也化作尘沙。你是本应该拥有世界，拥抱天地之人。但亡国的末裔啊，请不要悲叹这些逝去的时刻……」<br>——档案《旅行者（Player）》，截选</strong></em></p><p>从旅行者的介绍中，我们不难看出旅行者作为异界来客的身份，而他们也代表着他们原先所处的世界。更进一步地说，旅行者本该拥有他们原处的世界——他们是亡国的末裔，他们本应是他们所在世界的主人。</p><p><img src="https://pic2.zhimg.com/80/v2-1fe3e43f84047d843f4a0a8a136939a5_720w.jpg" width="80%"></p><p><em><strong>——档案《原神·序章》游戏剧情，截选</strong></em></p><p>星形符号象征着旅行者，而旅行者也代表着他们曾经的世界。他们既是星星，又是世界。</p><p>拥有这些菱形，或星形符号的不止有旅行者，还有他们来到这个世界后第一个遇见的伙伴派蒙。对于头戴星星发饰，身披星轨斗篷的派蒙，它身上的装饰是否预示着它会和旅行者一样，原本拥有自己的世界呢？</p><p><em><strong>“These four Great Kings are usually called Oriens, or Uriens, Paymon or Paymonia, Ariton or Egyn,and Amaymon or Amaimon. By the Rabbins they are frequently entitled: Samael, Azazel, Azael, and Mahazael.”<br>——档案《所罗门王的小钥匙》，节选</strong></em></p><p><em><strong>“在一年中最神圣的一天，赎罪日，将两只‘没有被玷污’的山羊钉在十字架上庆祝，一只献给上帝，另一只献给阿萨兹勒。山羊背负着将人类驱入沙漠的罪孽，是为‘替罪羊’。”<br>——档案《撒旦圣经》第四章，节选</strong></em></p><p>这并非无稽之谈。我曾在参与创作的《派蒙原型考据与相关猜测》中提到，“派蒙（Paimon）之名不但位列所罗门七十二柱魔神之一，在《所罗门王的小钥匙》一书中更是曾被用来称呼阿撒兹勒（Azazel）——而在《撒旦圣经》一书中，阿撒兹勒的位格似乎与上帝相等。”</p><p>&lt;img src=”<a href="https://pic4.zhimg.com/80/v2-bf6af55757431f1f662b728d4123eebb_720w.jpg&quot;height=&quot;50%&quot;>">https://pic4.zhimg.com/80/v2-bf6af55757431f1f662b728d4123eebb_720w.jpg"height="50%"&gt;</a></p><p><em><strong>——档案《派蒙（Paimon）》，节选</strong></em></p><p>##二、派蒙与地灵龛之钥——星形、方形与智慧<br>&lt;img src=”<a href="https://pic2.zhimg.com/80/v2-821556806ec3edab4ab0b8053811a54d_720w.jpg&quot;height=&quot;50%&quot;>">https://pic2.zhimg.com/80/v2-821556806ec3edab4ab0b8053811a54d_720w.jpg"height="50%"&gt;</a></p><p>菱形同样在游戏的许多道具中有所出现。地灵龛之钥顶端同样漂浮着的由菱形变化而来的正方体符号。这些漂浮着的正方体符号，在宗教中可以表示恒久的智慧与真理。不过想要更深一层解析这个符号的含义，就必须先了解这把秘钥背后的故事，而这把钥匙也与一位我们意想不到的人物关系密切。地灵龛之钥并非一把简单的钥匙，而是通过利用“过去”的气息与神龛共鸣，从而打开地灵龛。根据“黯影诗章”的《原神内测世界观背景全解》，这些神龛与密钥皆为一个名为“坎瑞亚古国”的文明留下的遗迹。</p><p>派蒙胸前的符号，凯尔特符号同样在我的《坎瑞亚中的消亡史：坎瑞亚的覆灭与黑日族的崛起》中被提及过，该符号为坎瑞亚古国的标志性符号。标志着派蒙必定与坎瑞亚古国存在联系，它的星形符号也许象征的正是曾经坎瑞亚古国存在时所处的世界。</p><p><em><strong>“派蒙能够以精神的共鸣来赐予艺术、科学、神秘学等等所有的知识。”<br>——档案《所罗门王的小钥匙》，节选</strong></em></p><p>在《所罗门王的小钥匙》中同样提到过，身为所罗门七十二柱魔神之一的派蒙，是知识的化身。而在地灵龛之钥顶端漂浮着的正方体符号，在宗教中同样可以表示恒久的智慧与真理。如果派蒙身上的星形符号，与这个正方体（方形，棱形）同源，那么派蒙曾经的影响力，的确可能覆盖了曾经的古文明与世界。</p><p>##三、世界旅行的菱形之门</p><p>&lt;img src=”<a href="https://pic3.zhimg.com/80/v2-6cebd2850a55af12f2a12e256e35649a_720w.jpg&quot;width=&quot;100%&quot;>">https://pic3.zhimg.com/80/v2-6cebd2850a55af12f2a12e256e35649a_720w.jpg"width="100%"&gt;</a></p><p>&lt;img src=”<a href="https://pic4.zhimg.com/80/v2-73a4ebf4a27c2401cef94eda6b59c2a7_720w.jpg&quot;width=&quot;100%&quot;>">https://pic4.zhimg.com/80/v2-73a4ebf4a27c2401cef94eda6b59c2a7_720w.jpg"width="100%"&gt;</a></p><p><em><strong>——档案《原神·序章》游戏剧情，截选</strong></em></p><p>菱形同样在游戏的许多场景中有所出现。开场动画的红黑色星形，实质上是一道空间之门。天理维系者能够借此穿越而来，而左右两个星形符号所象征的旅行者兄妹，同样穿越了诸多世界。而在游戏中使用传送点快速旅行时，加载界面中同样也有菱形符号。“通向世界的门”含义，也能很好地与快速旅行的功能所匹配。同样我们也可以肯定，菱形不仅象征着世界，也代表着进行世界旅行，跨越时空时所打开的“门”。</p><p>##四、世界旅行之门与星形原石<br>&lt;img src=”<a href="https://pic2.zhimg.com/80/v2-1f504055cb054b989ab060cbbbbe8ffd_720w.jpg&quot;width=&quot;60%&quot;>">https://pic2.zhimg.com/80/v2-1f504055cb054b989ab060cbbbbe8ffd_720w.jpg"width="60%"&gt;</a></p><p><em><strong>——档案《原石》稀有货币，截选</strong></em></p><p>既然我们明确了菱形能代表门，我们也能得出形状同为星形的原石的含义了。游戏中描述为“超出世界的原初晶石”。这里的世界明显指“星球”，从而与后文中的“宇宙”形成对应关系。而考虑到抽卡的进行方式，结合之前提到的，星形象征着进行世界旅行时所打开的时空之门，那么“超出世界”的星形原石，能够祈愿出我们想要的角色，并且让他们以与旅行者类似的方式那样，随着星辰坠落（世界旅行）来到旅行者的身边，也能圆满地解释了。</p><p>##五、天理维系者和派蒙以及旅行者双子——四人的星形<br>&lt;img src=”<a href="https://pic2.zhimg.com/80/v2-eedfdeb00fa5603b9c1f13ef11bb5041_720w.jpg&quot;width=&quot;60%&quot;>">https://pic2.zhimg.com/80/v2-eedfdeb00fa5603b9c1f13ef11bb5041_720w.jpg"width="60%"&gt;</a><br><em><strong>——档案《原神·序章》游戏剧情，截选</strong></em></p><p>菱形不仅在旅行者与旅行者的身旁频频出现，当我们回顾开场动画中出现的头号反派天理维系者时，惊讶地发现手中的道具与攻击旅行者二人的方式均为正方体形状。考虑到正方体所代表的恒久智慧与真理，连同魔法师（wicca）的词源来自于智慧（wise），天理维系者使用立方体形状的魔法对旅行者二人攻击也十分合理。</p><p><em><strong>“又要吩咐一切心中有智慧的，就是我用智慧的灵所充满的，给亚伦作衣服，使他分别为圣，可以给我供祭司的职分。”</strong></em></p><p><em><strong>——档案《圣经·旧约·出埃及记》第28章第3节，节选</strong></em></p><p><em><strong>“我也以我的灵充满了他，使他有智慧，有聪明，有知识，能作各样的工。”<br>——档案《圣经·旧约·出埃及记》第31章第3节，节选</strong></em></p><p>另外圣经中拥有智慧之人，被认为是被神的灵（即圣灵）所充盈之人，也能部分解释她开场时类似神明的语气，与她自己所说的“天理的维系者”的身份。</p><p>&lt;img src=”<a href="https://pic2.zhimg.com/80/v2-823fffdb24065e16afdd4258d76d7069_720w.jpg&quot;width=&quot;60%&quot;>">https://pic2.zhimg.com/80/v2-823fffdb24065e16afdd4258d76d7069_720w.jpg"width="60%"&gt;</a></p><p><em><strong>——档案《派蒙（Paimon）》，节选</strong></em></p><p>天理维系者使用正方体攻击的攻击方式，也不由得令人想到前文所提到的地灵龛之钥，从而怀疑她与派蒙之间的关系。仔细对比即可发现二者造型高度类似，二人皆为白发，而衣服上竟也出现了不少颇为相仿的菱形纹路。不过二者的纹路细节上还是存在一些差异。天理维系者的菱形纹路用颜色进行了填充，而派蒙的纹路则进行了勾线。天理维系者的菱形纹路仅出现在一只手，而派蒙则两手都有。</p><p>&lt;img src=”<a href="https://pic3.zhimg.com/80/v2-6cebd2850a55af12f2a12e256e35649a_720w.jpg&quot;width=&quot;100%&quot;>">https://pic3.zhimg.com/80/v2-6cebd2850a55af12f2a12e256e35649a_720w.jpg"width="100%"&gt;</a></p><p><em><strong>——档案《原神·序章》游戏剧情，截选</strong></em></p><p>更进一步地说，二人的相关之处不仅限于外表。出场时，天理维系者在天空中三个相连的菱形中的中间那个现身。如果说旅行者双子象征着左右两个星形，那么天理维系者毫无疑问就是中间那个最大的星形了。后续动画中天理维系者手中的正方体，变大后中央的图案竟也是与旅行者身上相同的星形，而派蒙身上也不乏星形装饰。如此风格类似却又存在细节差异的二人，也同样与风格十分类似的旅行者双子发生了联系。</p><p>假如派蒙与天理维系者真的是异构体，那么开场剧情“旅行者双子中的一人被抓走，另一人遇见派蒙”则能很容易地被解释了。中间的星形象征着天理维系者与派蒙，同时连接左右的双子，天理维系者选择其中一人掳走，而派蒙则与另一人相遇……而都代表着“世界”的天理维系者和派蒙，接下来与旅行者兄妹会演绎出什么样的故事，同样值得我们期待。</p><p>以上，感谢各位的阅读，我们下期再见。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 原神世界观 </tag>
             
         </tags>
       
